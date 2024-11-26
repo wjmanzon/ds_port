@@ -1,89 +1,73 @@
+# WILSON JR MANZON
+[linkedin.com/in/manzonw](https://linkedin.com/in/manzonw)
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+## EDUCATION
+**BS Business Analytics**  
+*Brigham Young University - Idaho, Rexburg, Idaho*  
+**Jan 2018 - Present**  
+GPA: 3.789/4.0, 105 credits  
+Relevant Classes:  
+- Business Analytics (A)  
+- Business Statistics (A)  
+- Data Intuition & Insight (A)  
+- SQL (A)  
+- Spreadsheet Analysis for Business (A)
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## CERTIFICATES
+**Advanced Google Data Analytics**  
+*Sept 2024*
 
+**Google Business Intelligence**  
+*Aug 2024*
 
-## Currently
+**Google Data Analytics**  
+*Aug 2024*
 
-Standing on the shoulders of giants
+**Web and Computer Programming**  
+*Apr 2024*
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## WORK EXPERIENCE
+**Data Analyst**  
+*Brigham Young University - Idaho, Institutional Data and Analysis Services, Rexburg, Idaho*  
+**Sept 2024 - Present**  
+- Utilize SQL and Power BI to generate reports and dynamic dashboards for data-driven decision-making.  
+- Analyze and visualize institutional data to support strategic planning and operational goals.  
+- Collaborate with departments to understand reporting needs and deliver actionable insights through customized dashboards.
 
+**Teaching Assistant for BA 215: Spreadsheet Analysis For Business**  
+*Brigham Young University - Idaho, Rexburg, Idaho*  
+**Apr 2024 - Present**  
+- Evaluated and provided detailed constructive feedback on 20+ student spreadsheets weekly.
 
-### Research interests
+**Mentor Hub Manager**  
+*Brigham Young University - Idaho, Rexburg, Idaho*  
+**Apr 2024 - Present**  
+- Developed an automated statistics recording and reporting tool using Google Sheets, Apps Script, and Power BI, streamlining data management processes for the Mentor Hub.  
+- Coordinated the activities and resources for a network of over 20 mentors, facilitating communication and ensuring the successful implementation of program initiatives.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Executive Assistant**  
+*Soar.com, Remote*  
+**Jul 2020 - Dec 2023**  
+- Created reports and dynamic dashboards on Google Sheets and Tableau for project managers and executives to quickly understand project status and completion rate.  
+- Automated processing and visualization of daily employee performance data, saving executive team 20 hours per month in manual data processing.  
+- Streamlined data management processes by cleaning and organizing large datasets, enhancing data accuracy and accessibility for executive decision-making.  
+- Designed pitch decks for presentations to C-level executives, effectively highlighting key insights and strategic recommendations.  
+- Analyzed social media market trends, providing actionable insights to drive strategic decision-making and optimize engagement strategies.
 
+**Training Facilitator**  
+*Missionary Training Center, Metro Manila*  
+**Dec 2016 - May 2019**  
+- Improved MTC intake efficiency by designing a Google Sheets dashboard for real-time tracking, reducing average completion time from six to three hours.  
+- Trained and mentored 8-12 missionaries every 15 days, developing their language skills and overall preparedness for successful fieldwork.
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Full-time Missionary**  
+*Cagayan De Oro Mission, Cagayan De Oro City*  
+**Aug 2014 - Sep 2016**  
+- Provided training and presented mission statistics to monthly Mission Leadership Council meetings while serving as assistant to the Mission President for six months.  
+- Kept accurate records of daily key performance indicators and delivered insightful weekly reports of KPI trends to leadership.
