@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Wilson Jr Manzon - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/username/username.github.io
@@ -10,10 +10,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Wilson Jr Manzon 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://linkedin.com/in/manzonw
 
   navbar:
     background: primary
